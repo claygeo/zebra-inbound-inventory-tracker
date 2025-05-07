@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inbound Inventory Tracker</string>
+    <string name="login_hint">Enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="prepped_batches">Prepped Batches</string>
+    <string name="inbound_shipment">Inbound Shipment</string>
+    <string name="add_new_batch">Add New Batch</string>
+</resources>
