@@ -22,7 +22,4 @@ An Android app built with Kotlin and Jetpack Compose for Zebra scanners, designe
 
 ## Notes
 - Zebra scanner SDK integration is required for barcode scanning (see `InventoryRepository.kt`).
-- Dispensary-related terms (e.g., PREROLL, ROSIN) are generic.
 
-## License
-Licensed under the MIT License. See [LICENSE](LICENSE) for details.
