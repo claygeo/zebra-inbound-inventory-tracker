@@ -2,6 +2,15 @@
 
 An Android app built with Kotlin and Jetpack Compose for Zebra scanners, designed to track inbound inventory for dispensaries or warehouses. Features include user login, batch management, barcode scanning, and audit logging.
 
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+- [Database Setup](#database-setup)
+- [Visuals](#visuals)
+- [Notes](#notes)
+  
 ## Features
 - Login screen for user authentication
 - Main menu for navigation
@@ -12,10 +21,10 @@ An Android app built with Kotlin and Jetpack Compose for Zebra scanners, designe
 ## Prerequisites
 - Android Studio
 - Zebra scanner device (or emulator for testing)
-- Kotlin and Jetpack Compose dependencies (see `build.gradle`)
+- Kotlin and Jetpack Compose dependencies (see build.gradle)
 
 ## Setup
-1. Clone the repository: `git clone [your-repo-url]`
+1. Clone the repository: git clone [your-repo-url]
 2. Open in Android Studio
 3. Sync project with Gradle
 4. Run on a Zebra scanner or emulator
@@ -44,8 +53,6 @@ User Interface:
 
 ![image](https://github.com/user-attachments/assets/fa0ff1ff-1aba-4391-b77b-471e0834290d)
 
-
-
 ## Notes
-- Zebra scanner SDK integration is required for barcode scanning (see `InventoryRepository.kt`).
+- Zebra scanner SDK integration is required for barcode scanning (see InventoryRepository.kt).
 
