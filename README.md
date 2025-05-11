@@ -37,7 +37,7 @@ Add New Batch:
 Inbound Shipment:
 ![image](https://github.com/user-attachments/assets/15e5265e-a2e0-4872-a3a3-fb8b12217a41)
 
-Inbound Shipment User Interface:
+User Interface:
 ![image](https://github.com/user-attachments/assets/f92fc294-a82e-4048-b1ed-0dce4b9a915b)
 ![image](https://github.com/user-attachments/assets/16c979c1-0a92-4a96-b7cd-cef8ec2d4bea)
 ![image](https://github.com/user-attachments/assets/fa0ff1ff-1aba-4391-b77b-471e0834290d)
