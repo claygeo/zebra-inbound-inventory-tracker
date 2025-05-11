@@ -30,7 +30,7 @@ An Android app built with Kotlin and Jetpack Compose for Zebra scanners, designe
 4. Run on a Zebra scanner or emulator
 
 ## Database Setup
-- To configure the Supabase database for the Kotlin Android app, you need to create the necessary tables. Copy and paste the following SQL code into the Supabase SQL Editor (found in your Supabase dashboard under SQL Editor). This will set up the audit_logs, batches, and inbound_records tables required for the application:
+To configure the Supabase database for the Kotlin Android app, you need to create the necessary tables. Copy and paste the following SQL code into the Supabase SQL Editor (found in your Supabase dashboard under SQL Editor). This will set up the audit_logs, batches, and inbound_records tables required for the application:
   
 -- Create audit_logs table
 CREATE TABLE audit_logs (
