@@ -22,13 +22,13 @@ An Android app built with Kotlin and Jetpack Compose for Zebra scanners, designe
 
 ## Visuals
 
-Main Logins: 
+Main Logins:
 ![image](https://github.com/user-attachments/assets/aa117639-ea79-4b5f-a696-8ae66bce3347)
 
 Main Interface:
 ![image](https://github.com/user-attachments/assets/30dbec14-55a0-4d7b-9c00-04c35d34b681)
 
-Prepped Batches: 
+Prepped Batches:
 ![image](https://github.com/user-attachments/assets/ae0a7aea-2cd5-4f97-97af-0f8fe32cb1e9)
 
 Add New Batch:
@@ -39,8 +39,8 @@ Inbound Shipment:
 
 Inbound Shipment User Interface:
 ![image](https://github.com/user-attachments/assets/f92fc294-a82e-4048-b1ed-0dce4b9a915b)
-
 ![image](https://github.com/user-attachments/assets/16c979c1-0a92-4a96-b7cd-cef8ec2d4bea)
+![image](https://github.com/user-attachments/assets/fa0ff1ff-1aba-4391-b77b-471e0834290d)
 
 
 
