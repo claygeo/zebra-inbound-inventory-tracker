@@ -24,7 +24,7 @@ An Android app built with Kotlin and Jetpack Compose for Zebra scanners, designe
 - Kotlin and Jetpack Compose dependencies (see build.gradle)
 
 ## Setup
-1. Clone the repository: git clone [your-repo-url]
+1. Clone the repository: git clone https://github.com/claygeo/zebra-inbound-inventory-tracker.gt
 2. Open in Android Studio
 3. Sync project with Gradle
 4. Run on a Zebra scanner or emulator
