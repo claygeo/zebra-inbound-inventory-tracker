@@ -94,5 +94,5 @@ User Interface:
 ![image](https://github.com/user-attachments/assets/fa0ff1ff-1aba-4391-b77b-471e0834290d)
 
 ## Notes
-- Zebra scanner SDK integration is required for barcode scanning (see InventoryRepository.kt).
+- Zebra scanner SDK integration is required for barcode scanning (see InventoryRepository.kt)
 
